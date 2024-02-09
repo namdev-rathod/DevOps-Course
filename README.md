@@ -6,17 +6,6 @@
 ![Batch Features](https://github.com/namdev-rathod/DevOps-Course/assets/140707502/5997f56e-9d9d-4d96-8d38-49910a420a5c)
 
 
-## Tools To Cover
-  - AWS
-  - Linux
-  - Git
-  - Jenkins
-  - Docker
-  - Kubernetes
-  - Terraform
-  - Monitoring Tools
-  - ChatGPT
-
     ----------------------------------------------------------------------
 
     # Table of content
