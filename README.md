@@ -1,4 +1,10 @@
 # DevOps-Course
+
+![DevOps Batch Announcement](https://github.com/namdev-rathod/DevOps-Course/assets/140707502/b6018a67-5f4b-4b6e-bcbe-94cd9843da21)
+
+![Batch Features](https://github.com/namdev-rathod/DevOps-Course/assets/140707502/5997f56e-9d9d-4d96-8d38-49910a420a5c)
+
+
 ## Tools To Cover
   - AWS
   - Linux
@@ -8,6 +14,7 @@
   - Kubernetes
   - Terraform
   - Monitoring Tools
+  - ChatGPT
 
     ----------------------------------------------------------------------
 
@@ -93,6 +100,11 @@
         - Installation & Configuration
         - Metrics and Alerting
         - Dashboard Creation
+       
+    - **ChatGPT**
+        - What Is Prompt Engineering
+        - How To Use Effective Prompt
+        - Some Prompt Examples
        
 # **For More Details**
   - Name: Namdev Rathod
