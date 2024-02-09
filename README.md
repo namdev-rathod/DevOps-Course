@@ -12,7 +12,7 @@
     ----------------------------------------------------------------------
 
     # Table of content
-      - AWS
+      - **AWS**
         -  AWS Introduction
         -  Free Tier Account Setup
         -  AWS Console Overview
@@ -31,6 +31,16 @@
         -  SNS
         -  ECS & EKS
        
-      - 
+      - **Linux**
+        - Introduction To Linux
+        - File System Structure
+        - User & Group Management
+        - File Permission Management
+        - Package Management
+        - Troubleshooting Commands
+        - Linux Commands & Shell Scripting
+        - LAMP Server Setup
+       
+      
     
     
