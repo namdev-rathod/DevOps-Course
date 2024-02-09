@@ -86,7 +86,7 @@
           - Helm Charts and Package Management
           - Monitoring and Logging in Kubernetes
        
-      - Monitoring Tools
+      - **Monitoring Tools**
         - Introduction to Monitoring
         - Use Cases of Monitoring
         - Monitoring Tools Overview - Nagios, Grafana, CloudWatch
