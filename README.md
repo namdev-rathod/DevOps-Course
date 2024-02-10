@@ -5,6 +5,9 @@
 
 ![Batch Features](https://github.com/namdev-rathod/DevOps-Course/assets/140707502/5997f56e-9d9d-4d96-8d38-49910a420a5c)
 
+# Batch Details
+- **Time** : Every Sat-Sun Evening 8:00 PM to 9:30 PM IST
+- **Batch Mode** : Online
 
 # Table of Content
 - **AWS**
