@@ -23,6 +23,7 @@
     -  Lambda Function
     -  API Gateway
     -  RDS
+    -  VPC
     -  CloudWatch & CloudTrail
     -  System Manager
     -  Route53
