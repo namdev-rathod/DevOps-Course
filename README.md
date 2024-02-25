@@ -1,6 +1,7 @@
 # DevOps-Course
 
-![DevOps Course Banner](https://github.com/namdev-rathod/DevOps-Course/assets/140707502/2638a095-2bdf-448c-a8b7-a96a6904786b)
+![image](https://github.com/namdev-rathod/DevOps-Course/assets/140707502/99a4463a-2e80-4141-9e5d-8a2f6b74a69d)
+
 
 
 ![Batch Features](https://github.com/namdev-rathod/DevOps-Course/assets/140707502/5997f56e-9d9d-4d96-8d38-49910a420a5c)
