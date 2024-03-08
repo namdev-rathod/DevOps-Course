@@ -9,6 +9,7 @@
 # Batch Details
 - **Time** : Every Sat-Sun Evening 9:00 AM to 11:00 AM IST
 - **Batch Mode** : Online
+- **Language** : English
 
 # Table of Content
 - **AWS**
