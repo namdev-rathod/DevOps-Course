@@ -102,7 +102,7 @@
        
 # **For More Details**
   - **Name:** Namdev Rathod
-  - **Email:** namdev.devops@gmail.com
+  - **Email:** support@devopswithnamdev.com
   - **YouTube:** https://www.youtube.com/@namdev.devops
 
       
